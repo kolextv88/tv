@@ -6637,6 +6637,641 @@
 
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CHAMPIONS 2
+http://103.179.182.117:6768/hls/88/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CHAMPIONS_6
+http://103.179.182.117:6768/hls/94/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CHAMPIONS 5
+http://103.179.182.117:6768/hls/21/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TVRI SPORT
+http://103.179.182.117:6768/hls/49/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",SPO_1
+http://103.179.182.117:6768/hls/15/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",SPO 2
+http://103.179.182.117:6768/hls/86/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",VOLI
+http://103.179.182.117:6768/hls/2/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Channel HD-18 JOWO CH.
+http://103.179.182.117:6768/hls/3/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",4.m3u8
+http://103.179.182.117:6768/hls/4/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CN
+http://103.179.182.117:6768/hls/5/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CARTOONITO
+http://103.179.182.117:6768/hls/6/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",DREAMWORK
+http://103.179.182.117:6768/hls/7/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",NICKELODEON
+http://103.179.182.117:6768/hls/9/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",NICK JUNIOR
+http://103.179.182.117:6768/hls/10/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",GARUDA
+http://103.179.182.117:6768/hls/11/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",ANIMAL_PLANET
+http://103.179.182.117:6768/hls/12/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",14.m3u8
+http://103.179.182.117:6768/hls/14/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",FIGHT
+http://103.179.182.117:6768/hls/16/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",METRO
+http://103.179.182.117:6768/hls/19/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",20.m3u8
+http://103.179.182.117:6768/hls/20/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",23.m3u8
+http://103.179.182.117:6768/hls/23/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",NBA
+http://103.179.182.117:6768/hls/25/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CINEMAX
+http://103.179.182.117:6768/hls/26/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",HBO
+http://103.179.182.117:6768/hls/27/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",HBO HITS
+http://103.179.182.117:6768/hls/28/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",HBO_SIGNATURE
+http://103.179.182.117:6768/hls/29/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",HBO_FAMILY
+http://103.179.182.117:6768/hls/30/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Bioskop Indonesia
+http://103.179.182.117:6768/hls/31/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Z bioskop
+http://103.179.182.117:6768/hls/32/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Flix
+http://103.179.182.117:6768/hls/33/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",IMC
+http://103.179.182.117:6768/hls/34/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",My_Streem2
+http://103.179.182.117:6768/hls/35/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",JTV
+http://103.179.182.117:6768/hls/36/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",ONE
+http://103.179.182.117:6768/hls/37/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",KIX
+http://103.179.182.117:6768/hls/38/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",GALAXY
+http://103.179.182.117:6768/hls/39/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",GALAXY_PREMIUM
+http://103.179.182.117:6768/hls/40/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",WARNER
+http://103.179.182.117:6768/hls/41/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TRANS 7
+http://103.179.182.117:6768/hls/42/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TRANS TV
+http://103.179.182.117:6768/hls/43/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MD_TV
+http://103.179.182.117:6768/hls/44/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",ANTV
+http://103.179.182.117:6768/hls/45/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TVONE
+http://103.179.182.117:6768/hls/46/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",VTV
+http://103.179.182.117:6768/hls/47/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MENTARI
+http://103.179.182.117:6768/hls/48/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MOJI
+http://103.179.182.117:6768/hls/50/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",RCTI
+http://103.179.182.117:6768/hls/51/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",INEWS
+http://103.179.182.117:6768/hls/52/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",KOMPAS
+http://103.179.182.117:6768/hls/53/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MOJI
+http://103.179.182.117:6768/hls/50/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MNC
+http://103.179.182.117:6768/hls/54/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",SCTV
+http://103.179.182.117:6768/hls/55/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",INDOSIAR
+http://103.179.182.117:6768/hls/56/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",GTV
+http://103.179.182.117:6768/hls/57/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CNBC
+http://103.179.182.117:6768/hls/58/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CNN Indonesia
+http://103.179.182.117:6768/hls/59/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CNN INT.
+http://103.179.182.117:6768/hls/60/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Live
+http://103.179.182.117:6768/hls/61/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Wsport
+http://103.179.182.117:6768/hls/62/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TVRI
+http://103.179.182.117:6768/hls/63/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",AXN
+http://103.179.182.117:6768/hls/64/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",DISCOVERY ASIA
+http://103.179.182.117:6768/hls/65/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CHAMPIONS 1
+http://103.179.182.117:6768/hls/66/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CINEMA WORLD
+http://103.179.182.117:6768/hls/67/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",CELESTIAL MOVIE
+http://103.179.182.117:6768/hls/68/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Curiosity
+http://103.179.182.117:6768/hls/69/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Live
+http://103.179.182.117:6768/hls/70/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",My_Streem
+http://103.179.182.117:6768/hls/71/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TVN
+http://103.179.182.117:6768/hls/72/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TVN MOVIE
+http://103.179.182.117:6768/hls/73/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Channel SD-06 BALI TV
+http://103.179.182.117:6768/hls/74/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",LOVE NATURE
+http://103.179.182.117:6768/hls/75/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Maxstream
+http://103.179.182.117:6768/hls/76/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TV9 NUSANTARA
+http://103.179.182.117:6768/hls/77/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",TvMU
+http://103.179.182.117:6768/hls/78/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MUI TV
+http://103.179.182.117:6768/hls/79/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",AL QURAN AL KAREEM
+http://103.179.182.117:6768/hls/80/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",DUNIA LAIN HD
+http://103.179.182.117:6768/hls/81/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MTA TV
+http://103.179.182.117:6768/hls/82/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",K+
+http://103.179.182.117:6768/hls/83/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Christv
+http://103.179.182.117:6768/hls/84/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Vchannel
+http://103.179.182.117:6768/hls/85/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Musik Indonesia
+http://103.179.182.117:6768/hls/87/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",MOONBUG
+http://103.179.182.117:6768/hls/89/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",THRILL
+http://103.179.182.117:6768/hls/90/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",Chinnes Drama
+http://103.179.182.117:6768/hls/92/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="BG" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="PLAYLIST1",NTV
+http://103.179.182.117:6768/hls/93/93.m3u8
+
+===================================================
+#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+
+#EXTINF:0,CBeebies BBC
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+#EXTINF:0,MOONBUG
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
+#EXTINF:0,MOONBUG (B)
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
+#EXTINF:0,ZOOMOO
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+#EXTINF:0,nickelodeon
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+#EXTINF:0,nick jr.
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+#EXTINF:0,ANIMAX
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#EXTINF:0,DREAMWORK
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+#EXTINF:0,KIDSTV
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+#EXTINF:0,RETRO CRUSH
+#EXTGRP:Anak-anak
+http://tvhomesmart.xyz:8080/live/OskarPac2405/9LSCsS5cwfDX/258421.ts
+
+#EXTINF:0,RCTI
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+#EXTINF:0,GTV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:0,MNCTV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:0,rtv
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+#EXTINF:0,TRANS 7
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#EXTINF:0,TRANSTV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#EXTINF:0,MDTV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+#EXTINF:0,antv
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#EXTINF:0,DAAI TV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+#EXTINF:0,TVRI
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+#EXTINF:0,jtv
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+#EXTINF:0,JAKTV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+#EXTINF:0,BALITV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTINF:0,BandungTV
+#EXTGRP:TV Nasional
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
+
+#EXTINF:0,VISION PRIME
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+#EXTINF:0,celebritiesTV
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
+#EXTINF:0,hanacarakaTV
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+#EXTINF:0,ANHUI TV
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+#EXTINF:0,XingKong TV
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+#EXTINF:0,JiangsuTV
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
+#EXTINF:0,Shanghai Dragon TV
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
+#EXTINF:0,FOOD TRAVEL
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+#EXTINF:0,arirang KOREA
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:0,KIX
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+#EXTINF:0,ONE
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+#EXTINF:0,TVN
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Hiburan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+
+#EXTINF:0,BTV
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:0,KOMPASTV
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
+#EXTINF:0,iNews
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:0,METROTV
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
+#EXTINF:0,tvone
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
+#EXTINF:0,IDX CHANNEL
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+#EXTINF:0,SINDONEWSTV
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+#EXTINF:0,ABC Australia
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+#EXTINF:0,AlJAZEERA
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+#EXTINF:0,CNBC
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+#EXTINF:0,FRANCE24
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+#EXTINF:0,BBC NEWS
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:0,cna
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+#EXTINF:0,euronews
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+#EXTINF:0,FOX NEWS channel
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+#EXTINF:0,TRTWORLD
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
+#EXTINF:0,NHKWORLD JAPAN
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+#EXTINF:0,CGTN
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+#EXTINF:0,DW
+#EXTGRP:Berita
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+
+#EXTINF:0,HISTORY
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:0,GlobalTrekker
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:0,BBC EARTH
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
+#EXTINF:0,LOVE NATURE
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:0,Outdoor
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+#EXTINF:0,CRIME+INVESTIGATION
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#EXTINF:0,NHK
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+#EXTINF:0,CGTN DOCUMENTARY
+#EXTGRP:Pengetahuan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+
+#EXTINF:0,tvMu
+#EXTGRP:Religi
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
+#EXTINF:0,DMITV
+#EXTGRP:Religi
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+#EXTINF:0,muslimTV
+#EXTGRP:Religi
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+#EXTINF:0,TV9
+#EXTGRP:Religi
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
+#EXTINF:0,Al-Qur'an Kareem
+#EXTGRP:Religi
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+
+#EXTINF:0,ROCK entertainment
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
+#EXTINF:0,ROCK ACTION
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+#EXTINF:0,thrill
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+#EXTINF:0,STUDIO UNIVERSAL
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+#EXTINF:0,ZBIOSKOP
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+#EXTINF:0,CCM
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#EXTINF:0,CELESTIAL MOVIES
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+#EXTINF:0,TVN MOVIES
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+#EXTINF:0,HITS
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+#EXTINF:0,HITS MOVIES
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#EXTINF:0,GALAXY
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+#EXTINF:0,GALAXY PREMIUM
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+#EXTINF:0,CINEEDGE
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:0,ORIGINALS
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:0,superrix
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:0,UNIQUES
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+#EXTINF:0,buddy star
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+#EXTINF:0,imc
+#EXTGRP:Films
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+
+#EXTINF:0,SOCCER CHANNEL
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+#EXTINF:0,Sportstars
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
+#EXTINF:0,Sportstars2
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+#EXTINF:0,Sportstars4
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+#EXTINF:0,SPOTV
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:0,SPOTV2
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:0,beIN SPORTS 2
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+#EXTINF:0,FIGHT SPORTS
+#EXTGRP:Olahraga
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+
+#EXTINF:0,MUSIC TV
+#EXTGRP:Musik
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+#EXTINF:0,MTV 90s
+#EXTGRP:Musik
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165842
+
+========================================================================
+
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", QURAN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", RCTI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNCTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", ANTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MDTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TRANS7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TRANSTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", METRO
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", KOMPAS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", INEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", BTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", JTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", UNIQUES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", VISION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC GROUP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000109/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNC GROUP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", DMI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CINEEDGE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", SUPERRIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", Movie
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", GALAXY PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", GALAXY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CCM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", HITS MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", STUDIO UNIVERSAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVN MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", THRILL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", IMC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", R ACTION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", R ENT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", HITS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", LIFE TIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", ZBIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", GLOBAL TREKKER
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", LOVE NATURE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", OUTDOOR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", AXN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000112/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV5 MONDE ASIE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", ENT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CELEB
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", IDX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", HANACARAKA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", MUSLIM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV9
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARIRANG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAAI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CHINA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CHINA2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", CHINA3
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", FIGHT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", SPOTV2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEIN 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", SOCCER
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", SPORTSTAR2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", SPORTSTAR4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+=======================================================
 
 
 
@@ -14148,3 +14783,4 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b38
 
 #EXTINF:-1 xui-id="10837" tvg-id="" tvg-name="DAAI TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDq0O1iFBnLp7qOj1z9sBlO3w.png" group-title="CHANNEL | INDONESIA PREMIUM",DAAI TV
 https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
+
